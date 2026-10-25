@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/gentian-line-stars.svg" alt="Gentian Line — a spiral of stars around a crystalline core" width="180" />
+<img src="gentian-line-stars.svg" alt="Gentian Line — a spiral of stars around a crystalline core" width="180" />
 
 # Gentian Line
 
@@ -143,7 +143,7 @@ willingness to name a mechanism after the cognitive-science literature that insp
 
 <div align="center">
 
-<img src="profile/gentian-line.svg" alt="Gentian Line mark — crystalline core with orbital memory traces" width="120" />
+<img src="gentian-line.svg" alt="Gentian Line mark — crystalline core with orbital memory traces" width="120" />
 
 <br/>
 
