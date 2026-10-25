@@ -6,11 +6,12 @@
 
 **Memory harness and project management systems for humans and LLMs.**
 
-*A small, serious fun.*
 
 </div>
 
 ---
+Why the name? 
+
 Scifi reference: House of Suns
 
 Large-scale human civilizations almost invariably seem to collapse and disappear within a few millennia (a phenomenon referred to as "turnover"), the limits of sub-lightspeed travel making it too difficult to hold interstellar empires together. Consequently, the most powerful entities in the galaxy are the "Lines"—familial organizations made of cloned "shatterlings". The Lines do not inhabit planets, but instead travel through space, holding reunions after they have performed a "circuit" of the galaxy; something that takes about 200,000 years.
