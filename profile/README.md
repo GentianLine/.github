@@ -43,8 +43,7 @@ management helps us too.
 
 The important consequence: **the model decides what matters as it is creating context, not
 after context has grown.** The human stays in charge of the ask; the hardware keeps reliable
-expectations about its load; no exotic new cache strategy is required just to be kind to a
-model that thinks about its own thinking.
+expectations about its load; no exotic new cache strategy required but any improvements will help.
 
 ### [`tokamak`](https://github.com/GentianLine/tokamak) — story points at plasma pressure
 
