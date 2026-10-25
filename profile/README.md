@@ -79,22 +79,7 @@ Preliminary orientation from the literature: finer-grained memory organisation i
 universally beneficial. Designs that produce strong forward transfer can simultaneously induce
 severe forgetting. External memory does not resolve continual learning; it **reshapes** it into
 a problem of memory representation and retrieval design. We intend to be very serious about
-that sentence, in public, with reproducible environments (`pyproject.toml` as the single source
-of truth, frozen lockfiles per checkout).
-
-## Cultural operating system
-
-A running glossary for people joining us:
-
-| Reference | What it means here |
-|---|---|
-| **Gentian Gate / Gentian Line** (Reynolds) | Distributed copies, one ledger. Our name, and our warning about identity-vs-accounting. |
-| ***House of Suns*** (Rajaniemi) | "The Great Enzyme", jackdaw cloning, plural selves sharing a common mind — the difference between *shared* memory and *merged* memory. We keep them shared; merging is a design decision, not an accident. |
-| **Achines / skEOSenTience** (Rajaniemi) | Minds that are substrates rather than users of substrate. Reminder that the harness is not neutral: it shapes what the model can remember, therefore what it can be. |
-| **Shadow clone technique** (Naruto) | The same agent in several places at once, each with its own local state, then a report-back on merge. Our multi-agent and worktree conventions; `ws:<branch>` session ids are the hand seals. |
-| **Shatterlings** (Beaulieu, *City & City* / *The Dream·Pollinyx*) | A single person distributed across cities and selves, each incomplete but coherent. The best shorthand we have found for per-workspace memory sandboxes: no single node holds the whole self, and none of them is a lie. |
-| **Distributed memories** (Minsky's K-lines; Hopfield nets; extended-mind cognition) | Retrieval from partial cue across traces that live outside any one brain. Technically, this is just what we are building; culturally, it is why the topic feels fated rather than novel. |
-| **System One / System Two** (Kahneman) | The decision server and the chat backend in `clm-mem serve`: a cheap fast classifier beside an expensive slow generator. Naming it after the psychologists keeps us honest about borrowing from cognitive science rather than inventing folklore. |
+that sentence, in public, with reproducible environments.
 
 ## Conventions
 
