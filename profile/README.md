@@ -12,20 +12,17 @@
 ---
 Why the name? 
 
-Scifi reference: House of Suns
+House of Suns by Alastair Reynolds concerns the Gentian Line, also known as the House of Flowers, composed of Abigail Gentian and her 999 clones (or "shatterlings").  The clones and Abigail travel the Milky Way Galaxy, helping young civilizations, collecting knowledge, and experiencing what the universe has to offer. Members of the Gentian Line are named after flowering plants.
 
-Large-scale human civilizations almost invariably seem to collapse and disappear within a few millennia (a phenomenon referred to as "turnover"), the limits of sub-lightspeed travel making it too difficult to hold interstellar empires together. Consequently, the most powerful entities in the galaxy are the "Lines"—familial organizations made of cloned "shatterlings". The Lines do not inhabit planets, but instead travel through space, holding reunions after they have performed a "circuit" of the galaxy; something that takes about 200,000 years.
-
-House of Suns concerns the Gentian Line, also known as the House of Flowers, composed of Abigail Gentian and her 999 clones (or "shatterlings"), male and female: exactly which of the 1,000 shatterlings is the original Abigail Gentian is unknown. The clones and Abigail travel the Milky Way Galaxy, helping young civilizations, collecting knowledge, and experiencing what the universe has to offer. Members of the Gentian Line are named after flowering plants.
-T
-hat is roughly the situation our agents are in, and it is not a problem we intend to
+That is roughly the situation our agents are in, and it is not a problem we intend to
 "solve" so much as *instrument*. Every clone gets its own ledger; every ledger stays
 coherent; nothing silently forgets because something else carefully remembered.  This way our goals can survive the
 test of time.
+What happens when we move from a Mixture of Experts to a evolving network of them?
 
 ## What we are doing
 
-Two repos, one loop: **memory** on one side, **work** on the other.
+Two repos, one goal: **memory and executing** on one side, **planning and tracking** on the other.
 
 ### [`clm-mem`](https://github.com/GentianLine/clm-mem) — memory that the model does to itself
 
